@@ -1,0 +1,34 @@
+{
+  "name": "@tosspayments-react/payment-widget-react",
+  "version": "0.0.0",
+  "description": "An unofficial react wrapper around tosspayments payment-widget-sdk",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/tosspayments-react"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/tosspayments-react/tosspayments-react"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "react",
+    "tosspayments",
+    "payment-widget"
+  ],
+  "author": "Thomas Min",
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {
+    "@tosspayments/payment-widget-sdk": "^0.5.4",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
