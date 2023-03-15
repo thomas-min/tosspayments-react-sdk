@@ -5,7 +5,7 @@ import {
   PaymentAgreementSection,
   PaymentRequestButton,
   usePaymentWidget,
-} from "@tosspayments-react/payment-widget-react";
+} from "@thomas-min/tosspayments-payment-widget-react-sdk";
 
 const amount = 15000;
 const clientKey = "test_ck_D5GePWvyJnrK0W0k6q8gLzN97Eoq";

@@ -1,0 +1,34 @@
+{
+  "name": "@thomas-min/tosspayments-payment-react-sdk",
+  "version": "0.0.0",
+  "description": "An unofficial react wrapper around tosspayments payment sdk",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com/thoams-min"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/thomas-min/tosspayments-react-sdk"
+  },
+  "scripts": {
+    "build": "rollup -c"
+  },
+  "keywords": [
+    "react",
+    "tosspayments",
+    "payment"
+  ],
+  "author": "Thomas Min",
+  "license": "MIT",
+  "devDependencies": {},
+  "peerDependencies": {
+    "@tosspayments/payment-sdk": "^1.5.1",
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2"
+  },
+  "main": "dist/cjs/index.js",
+  "module": "dist/esm/index.js",
+  "files": [
+    "dist"
+  ],
+  "types": "dist/index.d.ts"
+}
