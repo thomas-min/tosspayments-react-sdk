@@ -1336,7 +1336,7 @@
     url-loader "^4.1.1"
     webpack "^5.73.0"
 
-"@docusaurus/module-type-aliases@2.3.1":
+"@docusaurus/module-type-aliases@2.3.1", "@docusaurus/module-type-aliases@^2.3.1":
   version "2.3.1"
   resolved "https://registry.yarnpkg.com/@docusaurus/module-type-aliases/-/module-type-aliases-2.3.1.tgz#986186200818fed999be2e18d6c698eaf4683a33"
   integrity sha512-6KkxfAVOJqIUynTRb/tphYCl+co3cP0PlHiMDbi+SzmYxMdgIrwYqH9yAnGSDoN6Jk2ZE/JY/Azs/8LPgKP48A==
@@ -2459,6 +2459,11 @@
   version "0.2.0"
   resolved "https://registry.yarnpkg.com/@trysound/sax/-/sax-0.2.0.tgz#cccaab758af56761eb7bf37af6f03f326dd798ad"
   integrity sha512-L7z9BgrNEcYyUYtF+HaEfiS5ebkh9jXqbszz7pC0hRBPaatV0XjSD3+eHrpqFemQfgwiFF0QPIarnIihIDn7OA==
+
+"@tsconfig/docusaurus@^1.0.7":
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/@tsconfig/docusaurus/-/docusaurus-1.0.7.tgz#a3ee3c8109b3fec091e3d61a61834e563aeee3c3"
+  integrity sha512-ffTXxGIP/IRMCjuzHd6M4/HdIrw1bMfC7Bv8hMkTadnePkpe0lG0oDSdbRpSDZb2rQMAgpbWiR10BvxvNYwYrg==
 
 "@types/body-parser@*":
   version "1.19.2"
