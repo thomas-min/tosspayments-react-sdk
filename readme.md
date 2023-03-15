@@ -4,7 +4,7 @@
 
 [Tosspayments JS SDK](https://docs.tosspayments.com/reference/js-sdk)를 react에 사용하기 위해 포팅한 라이브러리 입니다.
 
-## Install
+## Installation
 
 ```bash
 # 일반 결제 패키지
@@ -73,9 +73,9 @@ function PaymentWidgetExample() {
 ## Documentation
 
 - [Tosspayments JS SDK](https://docs.tosspayments.com/reference/js-sdk)
-- [Tosspayments React SDK](https://docs.tosspayments.com/reference/js-sdk)
+- [Tosspayments React SDK](https://thomas-min.github.io/tosspayments-react-sdk/)
 
 ## Working List
 
 - 일반 결제
-- 결제위젯
+- 결제위젯 : WIP
