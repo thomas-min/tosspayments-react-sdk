@@ -78,4 +78,4 @@ function PaymentWidgetExample() {
 ## Working List
 
 - 일반 결제
-- 결제위젯 : WIP
+- 결제위젯
